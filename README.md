@@ -1,0 +1,2 @@
+# ddos
+pemula bos ku
