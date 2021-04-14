@@ -1,2 +1,2 @@
 # ddos
-pemula bos ku
+
